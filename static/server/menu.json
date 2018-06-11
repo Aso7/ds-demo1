@@ -1,0 +1,90 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "id": "1",
+            "level": 1,
+            "name": "组织权限管理",
+            "submenus": [
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "员工账号管理",
+                    "type": "emply"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "用户管理",
+                    "type": "users"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "菜单管理",
+                    "type": "menus"
+                }
+            ],
+            "type": "group"
+        },
+        {
+            "id": "1",
+            "level": 1,
+            "name": "我的工作",
+            "submenus": [
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "移动工单调度",
+                    "type": "mobel"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "我的申请",
+                    "type": "reqs"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "我的待办",
+                    "type": "waiting"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "我的消息",
+                    "type": "msg"
+                }
+            ],
+            "type": "work"
+        },
+        {
+            "id": "1",
+            "level": 1,
+            "name": "运动管理",
+            "submenus": [
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "跑步",
+                    "type": "run"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "跳绳",
+                    "type": "jump"
+                },
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "游泳",
+                    "type": "swim"
+                }
+            ],
+            "type": "sport"
+        }
+    ],
+    "msg":"SUCCESS"
+}
